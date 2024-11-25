@@ -1,0 +1,1 @@
+This repository is designed to help me practice and learn React by following along with the content from chai-aur-react by Hitesh Choudhary. The specific example is focused on react-router, to create a simple routing-based React app.
